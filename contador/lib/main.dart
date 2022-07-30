@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
             "Pode Entrar",
             style: TextStyle(
               fontSize: 26,
-              color: Colors.pink,
+              color: Colors.orange,
               fontWeight: FontWeight.w600,
             ),
           ),
